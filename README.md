@@ -2,7 +2,7 @@
 Agentic Terminal to system configuration, model hub connection, gpu setup, and creating the workflow as fast as possible
 
 # Project Structure for Agentic Terminal
-
+```
 agentic_terminal/
 │
 ├── setup.py                    # Package installation script
@@ -57,7 +57,7 @@ agentic_terminal/
     ├── test_voice/
     ├── test_huggingface/
     └── test_ide/
-
+```
 # setup.py
 ```python
 from setuptools import setup, find_packages
